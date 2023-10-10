@@ -1,0 +1,7 @@
+# FabDynamics Exec Template: 
+cd $job_results
+$run_prefix
+
+/usr/bin/env > env.log
+
+python3 $eco_location/$eco_script $eco_args_list

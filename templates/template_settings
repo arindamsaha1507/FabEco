@@ -1,0 +1,17 @@
+parameters:
+
+  a: $a
+  b: $b
+  c: $c
+  sig1: $sig1
+  sig2: $sig2
+  sig3: $sig3
+  alpha: $alpha
+  beta: $beta
+  xi: $xi
+
+initial_conditions:
+
+  p: $p
+  q: $q
+  r: $r

@@ -1,0 +1,79 @@
+{
+    "a": {
+      "type": "float",
+      "min": 0.0,
+      "max": 3.0,
+      "default": 1.5
+    },
+    "b": {
+      "type": "float",
+      "min": 0.0,
+      "max": 3.0,
+      "default": 1.0
+    },
+    "c": {
+      "type": "float",
+      "min": 0.0,
+      "max": 3.0,
+      "default": 1.2
+    },
+    "sig1": {
+      "type": "float",
+      "min": 0.0,
+      "max": 3.0,
+      "default": 1.5
+    },
+    "sig2": {
+      "type": "float",
+      "min": 0.0,
+      "max": 3.0,
+      "default": 1.25
+    },
+    "sig3":{
+      "type": "float",
+      "min": 0.0,
+      "max": 3.0,
+      "default": 1.7
+    },
+    "alpha":{
+      "type": "float",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.85
+    },
+    "beta":{
+      "type": "float",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.25
+    },
+    "xi":{
+      "type": "float",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.0
+    },
+    "p":{
+      "type": "float",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.3
+    },
+    "q":{
+      "type": "float",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.3
+    },
+    "r":{
+      "type": "float",
+      "min": 0.0,
+      "max": 1.0,
+      "default": 0.3
+    },
+    "out_file": {
+      "type": "string",
+      "default": "output.csv"
+    }
+}
+  

@@ -1,0 +1,11 @@
+default:
+
+  eco_args:
+
+    outfile: 'output.csv'
+
+localhost:
+
+  # location of dynamics in your local PC
+  eco_location: "/home/arindam/eco_game"
+  run_prefix_commands: ["source /home/arindam/eco_game/.venv/bin/activate"]

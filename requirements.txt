@@ -1,0 +1,9 @@
+chaospy
+easyvvuq
+matplotlib
+numpy
+pandas
+plotly
+ruamel.yaml
+pyyaml
+scipy
