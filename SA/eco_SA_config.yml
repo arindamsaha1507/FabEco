@@ -23,7 +23,7 @@ distribution_type: "Uniform" # Uniform, DiscreteUniform
 
 polynomial_order: 3
 
-decoder_output_column: "R"
+decoder_output_column: "S"
 
 #   ---------------------------------------------------------------
 # sampler_name: str
