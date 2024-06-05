@@ -9,3 +9,7 @@ localhost:
   # location of dynamics in your local PC
   eco_location: "/home/arindam/eco_game"
   run_prefix_commands: ["source /home/arindam/eco_game/.venv/bin/activate"]
+
+
+myriad:
+  eco_location: "/home/ucakahb/eco_game"
